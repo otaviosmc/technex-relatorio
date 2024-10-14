@@ -21,3 +21,11 @@ O sistema será utilizado principalmente por proprietários e funcionários de e
 ### Quais os problemas enfrentados?
 
 Controle dos processos de compra e venda de produtos, estoque dos produtos e crediário de clientes devido ao controle ser feito por material impresso ou manuscrito e ser armazenado em arquivo físico, podendo gerar falhas no controle ou perda dos documentos.
+
+## Storytelling
+
+“Na empresa Simoncini Varejo, o proprietário Ednilson Simoncini estava realizando seus papéis administrativos diários, anotando as chegadas de produtos, registrando as vendas e fazendo a conferência do crediário, quando em um momento de descuido escreveu um número errado nas entradas do produto X, fazendo com que ele fique com 10 a mais de estoque registrado.
+
+Após 2 semanas do ocorrido, Sr. Ednilson estava revendo seus estoques baseados nas vendas e durante esse tempo, houveram também algumas saídas do mesmo produto que não foram registradas, fazendo com que o caixa da empresa ficasse divergente do calculado e com que a empresa não comprasse o produto que logo viria ficar em falta por conta do erro cometido anteriormente.
+
+Após o produto acabar no estoque e verificarem que o estoque estava divergente, houve um período de procura imenso do produto naquele tempo em que ele estava em falta na empresa, fazendo com que o proprietário e funcionários da Simoncini Varejo apoiassem a contratação de um sistema de ERP para controle das funções administrativas da empresa.”
