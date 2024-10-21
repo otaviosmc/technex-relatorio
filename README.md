@@ -1,6 +1,6 @@
 # Criação de um protótipo sistema de controle total de uma empresa de varejo
 
-<p align ="center" width=400px>
+<p align ="center">
  <img src="https://github.com/user-attachments/assets/9c2cbb6f-ae5e-42e3-9b0a-4a1cd5f46507" width=80% margin= 0 auto>
 </p>
 <p>Figura 1 - Logo TechNex Solutions</p>
@@ -29,3 +29,7 @@ Controle dos processos de compra e venda de produtos, estoque dos produtos e cre
 Após 2 semanas do ocorrido, Sr. Ednilson estava revendo seus estoques baseados nas vendas e durante esse tempo, houveram também algumas saídas do mesmo produto que não foram registradas, fazendo com que o caixa da empresa ficasse divergente do calculado e com que a empresa não comprasse o produto que logo viria ficar em falta por conta do erro cometido anteriormente.
 
 Após o produto acabar no estoque e verificarem que o estoque estava divergente, houve um período de procura imenso do produto naquele tempo em que ele estava em falta na empresa, fazendo com que o proprietário e funcionários da Simoncini Varejo apoiassem a contratação de um sistema de ERP para controle das funções administrativas da empresa.”
+
+##WHO?
+###Personas
+Baseando na ideia, no Storytelling, as personas foram estruturadas sendo baseadas nas pessoas que irão utilizar o sistema: 
