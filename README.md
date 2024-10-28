@@ -35,3 +35,8 @@ Após o produto acabar no estoque e verificarem que o estoque estava divergente,
 Baseando na ideia, no Storytelling, as personas foram estruturadas sendo baseadas nas pessoas que irão utilizar o sistema: 
 ![1](https://github.com/user-attachments/assets/b4338539-f6d0-419d-9b60-8b3d9951e50e)
 ![2](https://github.com/user-attachments/assets/862982ac-f2f0-4957-b523-4812f3295808)
+
+###Mapa de Empatia
+
+Para que possamos entender as dores, sentimentos, visão e sermos empáticos com o usuário, foi desenvolvido o mapa de empatia para as pessoas que estão envolvidas no processo da empresa Simoncini Varejo
+###Identidade visual — Sistema
