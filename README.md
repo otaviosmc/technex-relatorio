@@ -30,17 +30,17 @@ Após 2 semanas do ocorrido, Sr. Ednilson estava revendo seus estoques baseados 
 
 Após o produto acabar no estoque e verificarem que o estoque estava divergente, houve um período de procura imenso do produto naquele tempo em que ele estava em falta na empresa, fazendo com que o proprietário e funcionários da Simoncini Varejo apoiassem a contratação de um sistema de ERP para controle das funções administrativas da empresa.”
 
-##WHO?
-###Personas
+## WHO?
+### Personas
 Baseando na ideia, no Storytelling, as personas foram estruturadas sendo baseadas nas pessoas que irão utilizar o sistema: 
 ![1](https://github.com/user-attachments/assets/b4338539-f6d0-419d-9b60-8b3d9951e50e)
 ![2](https://github.com/user-attachments/assets/862982ac-f2f0-4957-b523-4812f3295808)
 
-###Mapa de Empatia
+### Mapa de Empatia
 
 Para que possamos entender as dores, sentimentos, visão e sermos empáticos com o usuário, foi desenvolvido o mapa de empatia para as pessoas que estão envolvidas no processo da empresa Simoncini Varejo
 ![Black and White Simple Empathy Map Brainstorm](https://github.com/user-attachments/assets/679915a9-2036-40a2-bba3-884db078c9f4)
 
-###Identidade visual — Sistema
+### Identidade visual — Sistema
 
 
