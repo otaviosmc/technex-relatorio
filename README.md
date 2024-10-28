@@ -39,4 +39,8 @@ Baseando na ideia, no Storytelling, as personas foram estruturadas sendo baseada
 ###Mapa de Empatia
 
 Para que possamos entender as dores, sentimentos, visão e sermos empáticos com o usuário, foi desenvolvido o mapa de empatia para as pessoas que estão envolvidas no processo da empresa Simoncini Varejo
+![Black and White Simple Empathy Map Brainstorm](https://github.com/user-attachments/assets/679915a9-2036-40a2-bba3-884db078c9f4)
+
 ###Identidade visual — Sistema
+
+
