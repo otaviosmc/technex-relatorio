@@ -49,6 +49,8 @@ Considerando os requisitos funcionais e as necessidades levantadas pela Simoncin
 
 Na interface inicial, os usuários têm acesso a quatro funcionalidades principais: Cadastro de Clientes, Cadastro de Produtos, Controle de Vendas e Gestão de Débitos, cada uma subdividida em módulos complementares que direcionam para telas específicas de acordo com a escolha do usuário.
 
+![image](https://github.com/user-attachments/assets/ee9f4d9f-9e62-4442-a5ee-84e3d4364391)
+
 #### Cadastro e Controle
 Cadastro de Clientes e Fornecedores: Inclui telas que permitem o registro e atualização de dados de clientes e fornecedores. Essas telas estão organizadas para facilitar o preenchimento e edição das informações necessárias para o contato e histórico de compras.
 
