@@ -42,17 +42,17 @@ Para que possamos entender as dores, sentimentos, visão e sermos empáticos com
 ![Black and White Simple Empathy Map Brainstorm](https://github.com/user-attachments/assets/679915a9-2036-40a2-bba3-884db078c9f4)
 
 ## Identidade visual — Sistema
-###Wireframe
+### Wireframe
 Considerando os requisitos funcionais e as necessidades levantadas pela Simoncini Varejo, desenvolvemos um protótipo em Wireframe que contém todas as funcionalidades essenciais para o gerenciamento administrativo de uma empresa de varejo. Este esboço preliminar foi criado para visualizar a estrutura das interfaces antes da prototipação em alta fidelidade.
 
-####Interface Inicial
+#### Interface Inicial
 
 Na interface inicial, os usuários têm acesso a quatro funcionalidades principais: Cadastro de Clientes, Cadastro de Produtos, Controle de Vendas e Gestão de Débitos, cada uma subdividida em módulos complementares que direcionam para telas específicas de acordo com a escolha do usuário.
 
-####Cadastro e Controle
+#### Cadastro e Controle
 Cadastro de Clientes e Fornecedores: Inclui telas que permitem o registro e atualização de dados de clientes e fornecedores. Essas telas estão organizadas para facilitar o preenchimento e edição das informações necessárias para o contato e histórico de compras.
 
-####Cadastro de Produtos: Fornece uma interface intuitiva para o cadastro e atualização de produtos no estoque, incluindo dados essenciais, como descrição, quantidade, e preço.
+#### Cadastro de Produtos: Fornece uma interface intuitiva para o cadastro e atualização de produtos no estoque, incluindo dados essenciais, como descrição, quantidade, e preço.
 Controle de Vendas e Débitos: A partir da tela de controle de vendas, o usuário pode registrar novas vendas e acompanhar o histórico de transações, enquanto a tela de débitos oferece uma visão completa sobre pendências e pagamentos em aberto, auxiliando na gestão financeira e de cobranças.
 
 Além das funcionalidades principais, o sistema permite a consulta de informações adicionais, como relatórios de estoque e vendas para monitoramento de desempenho. Essas funcionalidades visam fornecer ao usuário uma visão geral da saúde financeira e operacional da empresa, otimizando processos e minimizando a necessidade de métodos manuais e passíveis de erro.
