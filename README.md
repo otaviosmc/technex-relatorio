@@ -54,10 +54,16 @@ Na interface inicial, os usuários têm acesso a quatro funcionalidades principa
 #### Cadastro e Controle
 Cadastro de Clientes e Fornecedores: Inclui telas que permitem o registro e atualização de dados de clientes e fornecedores. Essas telas estão organizadas para facilitar o preenchimento e edição das informações necessárias para o contato e histórico de compras.
 
-#### Cadastro de Produtos: Fornece uma interface intuitiva para o cadastro e atualização de produtos no estoque, incluindo dados essenciais, como descrição, quantidade, e preço.
+![image](https://github.com/user-attachments/assets/e1b1c78e-9b78-42a3-b780-d2b9b6aa11a5)
+
+#### Cadastro de Produtos
+Fornece uma interface intuitiva para o cadastro e atualização de produtos no estoque, incluindo dados essenciais, como descrição, quantidade, e preço.
 Controle de Vendas e Débitos: A partir da tela de controle de vendas, o usuário pode registrar novas vendas e acompanhar o histórico de transações, enquanto a tela de débitos oferece uma visão completa sobre pendências e pagamentos em aberto, auxiliando na gestão financeira e de cobranças.
 
 Além das funcionalidades principais, o sistema permite a consulta de informações adicionais, como relatórios de estoque e vendas para monitoramento de desempenho. Essas funcionalidades visam fornecer ao usuário uma visão geral da saúde financeira e operacional da empresa, otimizando processos e minimizando a necessidade de métodos manuais e passíveis de erro.
+
+![image](https://github.com/user-attachments/assets/fb637cf8-3d40-4bdc-bf0d-257085252ee5)
+
 
 
 
