@@ -82,7 +82,9 @@ Apresentaremos o projeto a clientes, especialistas e investidores, destacando as
 ### Conclusão 
 
 Com o objetivo de modernizar a gestão da Simoncini Varejo, desenvolvemos um protótipo de sistema de controle administrativo que promete revolucionar os processos internos da empresa. A solução, projetada para atender às necessidades específicas do cliente, aborda desafios como a gestão de estoque, o controle de vendas e a emissão de notas fiscais. Ao longo do desenvolvimento, utilizamos metodologias ágeis e ferramentas de prototipação, garantindo a entrega de um produto de alta qualidade e alinhado às expectativas do cliente.
+
 A implementação deste protótipo trará diversos benefícios para a Simoncini Varejo, como a redução de custos operacionais, o aumento da eficiência dos processos e a melhoria da tomada de decisões. Além disso, a solução proporcionará uma melhor experiência para os clientes, com maior agilidade no atendimento e maior precisão nas informações.
+
 Este projeto representa um marco importante na trajetória da nossa equipe, demonstrando nossa capacidade de desenvolver soluções tecnológicas inovadoras e eficazes. A experiência adquirida ao longo do desenvolvimento do protótipo será fundamental para futuros projetos, consolidando nossa posição como referência no mercado de desenvolvimento de software.
 
 
