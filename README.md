@@ -87,4 +87,8 @@ A implementação deste protótipo trará diversos benefícios para a Simoncini 
 
 Este projeto representa um marco importante na trajetória da nossa equipe, demonstrando nossa capacidade de desenvolver soluções tecnológicas inovadoras e eficazes. A experiência adquirida ao longo do desenvolvimento do protótipo será fundamental para futuros projetos, consolidando nossa posição como referência no mercado de desenvolvimento de software.
 
+Este projeto foi desenvolvido pelos alunos:
 
+**Otavio Aparecido Simoncini**, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+
+**Guilherme Vieira Donadoni**, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
