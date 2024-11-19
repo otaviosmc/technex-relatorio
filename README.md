@@ -69,3 +69,6 @@ Com o objetivo de transformar nossas ideias iniciais em um produto mais tangíve
 
 <a href="https://www.figma.com/proto/s6lVpkb17PdCatl2jSlmKV/Projeto-DI-PI?node-id=52-2&node-type=frame&t=kpyyzKkaFmqYsCEO-0&scaling=contain&content-scaling=fixed&page-id=0%3A1">
 
+Para uma experiência completa, clique no ícone de tela cheia no canto superior direito. Isso irá otimizar a visualização do protótipo.
+
+
